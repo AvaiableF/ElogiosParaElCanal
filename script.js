@@ -90,44 +90,62 @@ var frasesSorteadas = [];
 
 // Função para gerar uma frase aleatória
 function gerarFrase() {
-    // Verificar se todas as frases já foram sorteadas
-    if (frasesSorteadas.length === elogios.length) {
-        // Resetar o estado das frases sorteadas
-        frasesSorteadas = [];
-    }
+  // Verificar se todas as frases já foram sorteadas
+  if (frasesSorteadas.length === elogios.length) {
+    // Resetar o estado das frases sorteadas
+    frasesSorteadas = [];
+  }
 
-    // Verificar se todas as frases já foram sorteadas novamente após o reset
-    if (frasesSorteadas.length === elogios.length) {
-        alert("Todas as frases já foram sorteadas. Reinicie o programa para sortear novamente.");
-        return;
-    }
+  // Verificar se todas as frases já foram sorteadas novamente após o reset
+  if (frasesSorteadas.length === elogios.length) {
+    alert("Todas as frases já foram sorteadas. Reinicie o programa para sortear novamente.");
+    return;
+  }
 
-    var frase;
+  var frase;
 
-    // Enquanto a frase sorteada já estiver no estado das frases sorteadas, sorteie outra
-    do {
-        var randomIndex = Math.floor(Math.random() * elogios.length);
-        frase = elogios[randomIndex];
-    } while (frasesSorteadas.includes(frase));
+  // Enquanto a frase sorteada já estiver no estado das frases sorteadas, sorteie outra
+  do {
+    var randomIndex = Math.floor(Math.random() * elogios.length);
+    frase = elogios[randomIndex];
+  } while (frasesSorteadas.includes(frase));
 
-    // Adicionar a frase sorteada ao estado das frases sorteadas
-    frasesSorteadas.push(frase);
+  // Adicionar a frase sorteada ao estado das frases sorteadas
+  frasesSorteadas.push(frase);
 
-    document.getElementById("phrase").textContent = frase;
+  document.getElementById("phrase").textContent = frase;
 
-    // Copiar a frase para a área de transferência
-    navigator.clipboard.writeText(frase);
+  // Copiar a frase para a área de transferência
+  navigator.clipboard.writeText(frase);
 
-    // Exibir notificação
-    if ('Notification' in window && Notification.permission === 'granted') {
-        new Notification('Frase copiada!', { body: 'La frase se ha copiado al portapapeles.' });
-    }
+  // Exibir notificação
+  if ("Notification" in window && Notification.permission === "granted") {
+    new Notification("Frase copiada!", { body: "La frase se ha copiado al portapapeles." });
+  }
+
+  // Atualizar a lista das últimas 5 frases sorteadas
+  atualizarListaUltimasFrases();
+}
+
+// Função para atualizar a lista das últimas 5 frases sorteadas
+function atualizarListaUltimasFrases() {
+  var lista = document.getElementById("recent-list");
+  lista.innerHTML = "";
+
+  // Mostrar as últimas 5 frases sorteadas, se houver
+  var ultimasFrases = frasesSorteadas.slice(-5);
+  for (var i = ultimasFrases.length - 1; i >= 0; i--) {
+    var frase = ultimasFrases[i];
+    var item = document.createElement("li");
+    item.textContent = frase;
+    lista.appendChild(item);
+  }
 }
 
 // Solicitar permissão para exibir notificações
-if ('Notification' in window && Notification.permission !== 'granted') {
-    Notification.requestPermission();
+if ("Notification" in window && Notification.permission !== "granted") {
+  Notification.requestPermission();
 }
 
-// Associar a função gerarFrase ao botão "Gerar Frase"
+// Associar a função gerarFrase ao botão "Generar Frase"
 document.getElementById("generate-button").addEventListener("click", gerarFrase);

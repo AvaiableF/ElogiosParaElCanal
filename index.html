@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-
-<html lang="pt-BR">
+<html lang="es">
 <head>
     <link rel="icon" href="icon.png" type="image/x-icon">
     <meta charset="UTF-8">
@@ -59,6 +58,29 @@
         #generate-button:hover {
             background-color: #35A245;
         }
+        
+        .recent-phrases {
+            margin-top: 50px;
+            max-width: 500px;
+            text-align: left;
+            font-size: 16px;
+        }
+        
+        .recent-phrases h2 {
+            color: #4CAF50;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+        
+        .recent-phrases ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        
+        .recent-phrases li {
+            margin-bottom: 5px;
+        }
     </style>
 </head>
 <body>
@@ -67,6 +89,11 @@
             <h1>Elogios para el Canal</h1>
             <p id="phrase"></p>
             <button id="generate-button">Generar Frase</button>
+            
+            <div class="recent-phrases">
+                <h2>Últimas 5 Frases Generadas:</h2>
+                <ul id="recent-list"></ul>
+            </div>
         </div>
     </div>
 
