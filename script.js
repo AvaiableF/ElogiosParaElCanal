@@ -85,10 +85,34 @@ var elogios = [
      "La pasión que sientes por tu tema es evidente en cada vídeo. Me inspira a seguir mis propias pasiones."
  ];
 
+// Estado para controlar as frases sorteadas
+var frasesSorteadas = [];
+
 // Função para gerar uma frase aleatória
 function gerarFrase() {
-    var randomIndex = Math.floor(Math.random() * elogios.length);
-    var frase = elogios[randomIndex];
+    // Verificar se todas as frases já foram sorteadas
+    if (frasesSorteadas.length === elogios.length) {
+        // Resetar o estado das frases sorteadas
+        frasesSorteadas = [];
+    }
+
+    // Verificar se todas as frases já foram sorteadas novamente após o reset
+    if (frasesSorteadas.length === elogios.length) {
+        alert("Todas as frases já foram sorteadas. Reinicie o programa para sortear novamente.");
+        return;
+    }
+
+    var frase;
+
+    // Enquanto a frase sorteada já estiver no estado das frases sorteadas, sorteie outra
+    do {
+        var randomIndex = Math.floor(Math.random() * elogios.length);
+        frase = elogios[randomIndex];
+    } while (frasesSorteadas.includes(frase));
+
+    // Adicionar a frase sorteada ao estado das frases sorteadas
+    frasesSorteadas.push(frase);
+
     document.getElementById("phrase").textContent = frase;
 
     // Copiar a frase para a área de transferência
