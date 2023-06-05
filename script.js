@@ -123,17 +123,17 @@ function gerarFrase() {
     new Notification("Frase copiada!", { body: "La frase se ha copiado al portapapeles." });
   }
 
-  // Atualizar a lista das últimas 5 frases sorteadas
+  // Atualizar a lista das últimas 3 frases sorteadas
   atualizarListaUltimasFrases();
 }
 
-// Função para atualizar a lista das últimas 5 frases sorteadas
+// Função para atualizar a lista das últimas 3 frases sorteadas
 function atualizarListaUltimasFrases() {
   var lista = document.getElementById("recent-list");
   lista.innerHTML = "";
 
-  // Mostrar as últimas 5 frases sorteadas, se houver
-  var ultimasFrases = frasesSorteadas.slice(-5);
+  // Mostrar as últimas 3 frases sorteadas, se houver
+  var ultimasFrases = frasesSorteadas.slice(-3);
   for (var i = ultimasFrases.length - 1; i >= 0; i--) {
     var frase = ultimasFrases[i];
     var item = document.createElement("li");
