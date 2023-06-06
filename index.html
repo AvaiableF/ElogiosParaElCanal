@@ -4,24 +4,32 @@
     <link rel="icon" href="icon.png" type="image/x-icon">
     <meta charset="UTF-8">
     <title>Elogios para el Canal</title>
+    <meta name="description" content="Elogios para o Canal - Deixe uma mensagem positiva para o canal.">
+    <meta name="author" content="Seu Nome">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="app-container">
-        <div class="content">
-            <h1>Elogios para el Canal</h1>
-            <p id="phrase"></p>
-            <button id="generate-button">Generar Frase</button>
-            
-            <div class="recent-phrases">
-                <h2 class="text-center">Últimas 3 Frases Generadas:</h2>
-                <ul class="text-center" id="recent-list"></ul>
+
+    <main class="main-content">
+        <div class="app-container">
+            <div class="content">
+                <h2 class="subtitle">Deje un Elogio para el Canal</h2>
+                <p id="phrase" class="phrase"></p>
+                <button id="generate-button" class="btn btn-primary">Generar Frase</button>
+                
+                <div class="recent-phrases">
+                    <h2 class="subtitle">Últimas 3 Frases Generadas:</h2>
+                    <ul id="recent-list" class="recent-list"></ul>
+                </div>
             </div>
         </div>
-    </div>
+    </main>
 
-    <div id="version">Versión: <span id="version-number"></span></div>
+    <footer class="footer">
+        <div id="version" class="version">Versión: <span id="version-number"></span></div>
+        <p id="derechos" class="footer-text">© 2023 Elogios para el Canal. Todos los derechos reservados.</p>
+    </footer>
 
     <script src="script.js"></script>
 </body>
