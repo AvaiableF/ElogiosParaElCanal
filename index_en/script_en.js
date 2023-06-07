@@ -90,11 +90,11 @@ var compliments = [
 "Your passion for what you do shines through in every video on the Red Attitude channel. Keep it up!",
 "Pamela Raquel, you are a true leader in the digital world. I admire your determination and your success with Attitude Red",
 "Your videos on the Red Attitude channel are a constant source of motivation and empowerment. Thank you",
-"Congratulations, Pamela Raquel, for building an incredible community around Attitude Roja",
+"Congratulations, Pamela Raquel, for building an incredible community around Red Attitude",
 "Your charisma and authenticity are captivating. It's a pleasure to watch your videos in Red Attitude",
 "Your ability to transmit knowledge in a clear and attractive way is impressive. Keep sharing your talent in Attitude Red",
-"Pamela Raquel, you are a reference in the digital world. Your work in Attitude Roja is incredible",
-"Your positive impact on the lives of your followers is evident. Thank you for everything you do at Actitud Roja", "Pamela Raquel, you are a reference in the digital world",
+"Pamela Raquel, you are a reference in the digital world. Your work in Red Attitude is incredible",
+"Your positive impact on the lives of your followers is evident. Thank you for everything you do at Red Attitude", "Pamela Raquel, you are a reference in the digital world",
 "Congratulations for creating a safe and inclusive space in Red Attitude. It is a true online community",
 "Your creativity and innovation are admirable. Red Attitude is always a positive surprise.",
 "Pamela Raquel, you are a person of solid values ​​and principles. It is inspiring to see how you embody them in Attitude Red.",
@@ -114,7 +114,7 @@ var compliments = [
 "Your videos are always well produced and edited. It is a pleasure to see the quality content of Attitude Red.",
 "Congratulations for challenging stereotypes and promoting diversity at Attitude Red",
 "Your passion for life and the things you do is contagious. Red Attitude reflects that brilliantly.",
-"Pamela Raquel, you are a person with a generous heart. Your support for your followers in Actitud Roja is invaluable",
+"Pamela Raquel, you are a person with a generous heart. Your support for your followers in Red Attitude is invaluable",
 "Your sense of humor makes every Red Attitude video even more fun. Keep making us laugh!",
 "Congratulations on your ability to balance entertainment and education in Red Attitude. You have an incredible talent.",
 "Your authenticity and transparency are commendable. Attitude Red is a genuine space thanks to you",
@@ -122,7 +122,7 @@ var compliments = [
 "Your enthusiasm and passion are contagious. Red Attitude is a true example of that.",
 "Congratulations on reaching significant milestones with Red Attitude. You deserve every achievement.",
 "Your ability to reinvent yourself and adapt to changes is admirable. Red Attitude is always ahead",
-"Pamela Raquel, you are a virtual mentor for many people. The impact of Attitude Roja is immeasurable",
+"Pamela Raquel, you are a virtual mentor for many people. The impact of Red Attitude is immeasurable",
 "Your professionalism and work ethic are examples to follow. Red Attitude is a reflection of it",
 "Congratulations for creating a channel as incredible as Red Attitude. The world needs more creators like you",
 
@@ -378,7 +378,7 @@ document.getElementById("generate-button").addEventListener("click", generateCom
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.1.4"; // Put your current version here
+  versionNumberElement.innerText = "1.1.5"; // Put your current version here
 
   // Display the initial available compliments counter
   updateCounter();
