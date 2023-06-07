@@ -288,6 +288,38 @@ var elogios = [
 "Você é um verdadeiro líder de pensamento, compartilhando insights e ideias que desafiam o status quo e inspiram a transformação pessoal.",
 "Seu conteúdo é um verdadeiro presente para quem busca crescimento pessoal e desenvolvimento espiritual, oferecendo ferramentas práticas e inspiração para a jornada.",
 
+//30 elogios a um vídeo do youtube
+"A sua capacidade de transmitir conhecimento de forma clara e envolvente é impressionante! Seus vídeos são verdadeiras aulas que despertam o interesse e a curiosidade dos espectadores.",
+"Parabéns pela excelência na produção do vídeo! Desde a escolha dos temas até a edição impecável, tudo contribui para uma experiência única e cativante.",
+"Sua abordagem criativa e inovadora faz com que cada vídeo seja uma obra de arte. É visível o cuidado e o esforço que você coloca em cada detalhe para entregar um conteúdo de altíssima qualidade.",
+"A maneira como você conecta teoria e prática em seus vídeos é simplesmente fantástica! Conseguir explicar conceitos complexos de forma acessível é um talento que você domina com maestria.",
+"Além do conteúdo incrível, sua energia e entusiasmo contagiam quem assiste. É inspirador ver alguém tão apaixonado pelo que faz e transmitir essa paixão para o público.",
+"Você tem o dom de despertar a curiosidade e a sede por aprendizado. Cada vídeo é uma oportunidade de ampliar horizontes e adquirir novos conhecimentos. Obrigado por compartilhar seu saber!",
+"Seus vídeos são um verdadeiro oásis de informações valiosas. A forma como você pesquisa, seleciona e apresenta o conteúdo é digna de admiração. É um prazer acompanhar seus trabalhos.",
+"O seu comprometimento em entregar um conteúdo de qualidade é notável. É perceptível o tempo e a dedicação que você investe em cada vídeo, sempre buscando superar as expectativas dos espectadores.",
+"Além de ser um excelente comunicador, você é um verdadeiro educador. Sua habilidade em transmitir conhecimento e despertar o interesse pelo aprendizado é um presente para quem assiste seus vídeos.",
+"A maneira como você compartilha sua experiência e expertise é extremamente generosa. Você se coloca no lugar do espectador e busca oferecer o melhor conteúdo possível, de forma clara, concisa e envolvente.",
+"Seus vídeos são como uma verdadeira jornada de descobertas. A cada episódio, somos levados a explorar novos assuntos, ampliar nossos horizontes e enriquecer nossa bagagem de conhecimentos.",
+"A qualidade visual dos seus vídeos é deslumbrante. Cada enquadramento, efeito e transição é pensado com precisão, criando uma experiência cinematográfica que cativa e emociona.",
+"Além do conteúdo relevante, a sua personalidade carismática e autêntica brilha em cada vídeo. Você transmite empatia e proximidade, tornando-se não apenas um educador, mas também um amigo para seus espectadores.",
+"Você é uma fonte constante de inspiração para todos que acompanham seu canal. Sua dedicação, perseverança e paixão pelo que faz são exemplos que nos motivam a buscar nossos próprios sonhos.",
+"Seu domínio do assunto é impressionante! A forma como você explora diferentes aspectos, analisa casos práticos e oferece insights valiosos mostra o quanto você é um especialista na área.",
+"Parabéns pela clareza e objetividade nas suas explicações. Mesmo abordando temas complexos, você consegue desmistificar e tornar acessível o conhecimento, permitindo que todos possam aprender.",
+"Seus vídeos têm o poder de transformar vidas. Você desperta a paixão pelo aprendizado, incentiva a busca pelo auto aperfeiçoamento e cria um impacto positivo na jornada educacional de tantas pessoas.",
+"Além de educar, você também diverte! Sua habilidade em trazer leveza e bom humor para os vídeos faz com que o aprendizado seja prazeroso e envolvente. É impossível não se encantar com seu carisma.",
+"A qualidade da pesquisa em seus vídeos é exemplar. É evidente o seu comprometimento em buscar fontes confiáveis, dados atualizados e informações relevantes para embasar suas argumentações.",
+"Você tem uma didática brilhante! Sua habilidade em transmitir conhecimento de forma gradual, organizada e com exemplos práticos torna o aprendizado fluido e compreensível para qualquer pessoa.",
+"O seu canal é um verdadeiro tesouro de informações valiosas. Cada vídeo é uma oportunidade de expandir horizontes, adquirir novas habilidades e mergulhar em assuntos fascinantes.",
+"A qualidade do roteiro dos seus vídeos é digna de um profissional experiente. A estrutura narrativa, a sequência lógica de ideias e os momentos de impacto são cuidadosamente elaborados, resultando em um conteúdo envolvente.",
+"Parabéns pela capacidade de conectar-se com seu público de forma autêntica. Você estabelece uma relação de confiança e proximidade, criando uma comunidade de seguidores fiéis e engajados.",
+"Seus vídeos são uma fonte de motivação e inspiração. Ver o seu sucesso e a sua evolução ao longo do tempo nos faz acreditar que também podemos alcançar nossos objetivos, desde que tenhamos dedicação e paixão pelo que fazemos.",
+"A qualidade sonora dos seus vídeos é excepcional. O áudio claro e bem equalizado proporciona uma experiência imersiva, permitindo que o espectador absorva cada palavra com clareza e precisão.",
+"Você é um verdadeiro mestre na arte de simplificar conceitos complexos. Sua habilidade em transformar assuntos difíceis em explicações acessíveis é admirável e torna o aprendizado muito mais agradável.",
+"A forma como você interage com os espectadores é inspiradora. Você valoriza e responde aos comentários, criando um ambiente de troca e aprendizado mútuo. Sua dedicação em construir uma comunidade sólida é notável.",
+"Seus vídeos são uma fonte inesgotável de insights e reflexões profundas. Você nos desafia a questionar o status quo, a repensar nossas crenças e a expandir nossa visão de mundo. É um verdadeiro despertar intelectual.",
+"A sua paixão pelo assunto é palpável em cada vídeo. Você transmite entusiasmo e amor pelo que faz, inspirando seus espectadores a também se apaixonarem pelo tema e a explorarem mais a fundo.",
+"Você é um verdadeiro influenciador positivo. Seus valores éticos, responsabilidade social e compromisso com a verdade e a integridade refletem-se em cada palavra dita nos seus vídeos. Obrigado por ser um exemplo inspirador!",
+
 ];
 
 // Estado para controlar as frases sorteadas
@@ -378,7 +410,7 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.1.5'; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = '1.1.6'; // Coloque a versão atual do seu programa aqui
 
   // Exibir o contador de elogios disponíveis inicialmente
   atualizarContador();

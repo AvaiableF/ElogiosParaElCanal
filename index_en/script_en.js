@@ -288,6 +288,37 @@ var compliments = [
 "You are a true thought leader, sharing insights and ideas that challenge the status quo and inspire personal transformation.",
 "Your content is a true gift to those seeking personal growth and spiritual development, offering practical tools and inspiration for the journey.",
 
+//30 comentarios sobre um vídeo do youtube
+"His ability to convey knowledge in a clear and engaging way is impressive! His videos are true lessons that arouse the interest and curiosity of viewers.",
+"Congratulations on the excellence in the production of the video! From the choice of themes to the impeccable editing, everything contributes to a unique and captivating experience.",
+"Your creative and innovative approach makes each video a work of art. You can see the care and effort you put into every detail to deliver the highest quality content.",
+"The way you connect theory and practice in your videos is simply fantastic! Being able to explain complex concepts in an accessible way is a talent that you have mastered.",
+"In addition to the incredible content, his energy and enthusiasm are contagious to those who watch. It's inspiring to see someone so passionate about what he does and transmit that passion to the audience.",
+"You have the gift of awakening curiosity and thirst for learning. Each video is an opportunity to broaden horizons and acquire new knowledge. Thank you for sharing your knowledge!",
+"Your videos are a true oasis of valuable information. The way you research, select and present content is worthy of admiration. It is a pleasure to follow your work.",
+"Your commitment to delivering quality content is remarkable. The time and dedication you invest in each video is noticeable, always seeking to exceed viewers' expectations.",
+"In addition to being an excellent communicator, you are a true educator. Your ability to transmit knowledge and awaken an interest in learning is a gift for those who watch your videos.",
+"The way you share your experience and expertise is extremely generous. You put yourself in the viewer's shoes and aim to deliver the best content possible, in a clear, concise and engaging way.",
+"His videos are like a true journey of discovery. With each episode, we are led to explore new subjects, broaden our horizons and enrich our baggage of knowledge.",
+"The visual quality of his videos is stunning. Every frame, effect and transition is precisely thought out, creating a cinematic experience that captivates and thrills.",
+"In addition to relevant content, your charismatic and authentic personality shines through in each video. You convey empathy and closeness, becoming not only an educator, but also a friend to your viewers.",
+"You are a constant source of inspiration for everyone who follows your channel. Your dedication, perseverance and passion for what you do are examples that motivate us to pursue our own dreams.",
+"Your subject matter is impressive! The way you explore different aspects, analyze practical cases and offer valuable insights shows how much of an expert you are in the field.",
+"Congratulations on the clarity and objectivity of your explanations. Even when addressing complex topics, you manage to demystify and make knowledge accessible, allowing everyone to learn.",
+"Your videos have the power to transform lives. You spark a passion for learning, encourage self-improvement and positively impact the educational journey of so many people.",
+"In addition to educating, you also entertain! Your ability to bring lightness and good humor to the videos makes learning enjoyable and engaging. It's impossible not to be enchanted by your charisma.",
+"The quality of the research in his videos is exemplary. His commitment to seeking reliable sources, updated data and relevant information to support his arguments is evident.",
+"You have a brilliant didactics! Your ability to transmit knowledge in a gradual, organized way and with practical examples makes learning fluid and understandable for anyone.",
+"Your channel is a veritable treasure trove of valuable information. Each video is an opportunity to expand horizons, acquire new skills and delve into fascinating subjects.",
+"The quality of the script of his videos is worthy of an experienced professional. The narrative structure, the logical sequence of ideas and the moments of impact are carefully crafted, resulting in an engaging content.",
+"Congratulations on your ability to authentically connect with your audience. You establish a relationship of trust and closeness, creating a community of loyal and engaged followers.",
+"Your videos are a source of motivation and inspiration. Seeing your success and evolution over time makes us believe that we too can achieve our goals, as long as we are dedicated and passionate about what we do.",
+"The sound quality of your videos is exceptional. The clear, well-balanced audio provides an immersive experience, allowing the viewer to absorb every word with clarity and precision.",
+"You are a true master in the art of simplifying complex concepts. Your ability to transform difficult subjects into accessible explanations is admirable and makes learning much more enjoyable.",
+"The way you interact with viewers is inspiring. You value and respond to comments, creating an environment for exchange and mutual learning. Your dedication to building a solid community is remarkable.",
+"Your videos are an endless source of insights and deep reflections. You challenge us to question the status quo, rethink our beliefs and expand our worldview. It's a true intellectual awakening.",
+"Your passion for the subject is palpable in every video. You convey enthusiasm and love for what you do, inspiring your viewers to also fall in love with the subject and explore it further.",
+"You are a true positive influencer. Your ethical values, social responsibility and commitment to truth and integrity are reflected in every word spoken in your videos. Thank you for being an inspiring example!",
 ];
 
 // State to keep track of generated compliments
@@ -378,7 +409,7 @@ document.getElementById("generate-button").addEventListener("click", generateCom
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.1.5"; // Put your current version here
+  versionNumberElement.innerText = "1.1.6"; // Put your current version here
 
   // Display the initial available compliments counter
   updateCounter();
