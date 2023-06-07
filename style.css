@@ -56,9 +56,12 @@ h1 {
 .recent-phrases {
     margin-top: 50px;
     max-width: 500px;
-    text-align: left;
+    text-align: center;
     font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .recent-phrases h2 {
     color: #4CAF50;
