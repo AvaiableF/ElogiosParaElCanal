@@ -132,29 +132,31 @@ h1 {
     background-color: #35A245;
 }
 
-@media screen and (max-width: 480px) {
-    /* Estilos para dispositivos com largura máxima de 480px (smartphones) */
-    /* Aqui você pode ajustar o layout e os estilos conforme necessário */
+@media screen and (max-width: 767px) {
+    /* Estilos para dispositivos móveis */
     
     .content {
-      padding: 20px; /* Reduzindo o padding para dispositivos móveis */
+      max-width: 100%; /* Altera a largura máxima para ocupar toda a largura da tela */
+      padding: 20px; /* Reduz o padding para dispositivos móveis */
     }
-  
+    
     #generate-button {
       padding: 10px 20px;
       font-size: 16px;
     }
-  
+    
     .recent-phrases {
       margin-top: 30px;
     }
-  
+    
     #counter {
       font-size: 14px;
       margin-top: 5px;
     }
-  
-    .language-selection {
-      flex-direction: column; /* Alterando a direção do flex para exibir os botões verticalmente */
+    
+    .footer {
+      position: relative; /* Remove a posição fixa para o rodapé */
+      margin-top: 30px; /* Adiciona um espaçamento entre o conteúdo e o rodapé */
     }
   }
+  
