@@ -210,6 +210,86 @@ var elogios = [
   "Eres una influencer transformadora, que ayuda a la gente a superar obstáculos y alcanzar su mejor yo.", 
   "Tu canal es un oasis de inspiración y sabiduría, que ofrece una valiosa guía para una vida llena de amor y felicidad.", 
   "Eres una fuente de ánimo y motivación, que empodera a hombres y mujeres para alcanzar el éxito en todos los ámbitos de la vida.", 
+
+  "¡Su canal es sencillamente fenomenal! Es una fuente inagotable de entretenimiento, conocimiento e inspiración. Tus vídeos son verdaderas obras de arte, donde transmites tu pasión y talento de una forma única. Cada detalle está cuidadosamente pensado, desde la elección de los temas hasta la impecable edición. Es increíble cómo consigues mantener la atención del espectador de principio a fin, dejándonos siempre ansiosos por el siguiente contenido. Además, es admirable tu capacidad para explicar conceptos complejos de forma clara y accesible. ¡Eres un verdadero maestro en lo que haces! Enhorabuena por tu excepcional trabajo y por compartir tu talento con el mundo. Sigue encantándonos con tus creaciones, ¡porque eres una referencia en el universo de los creadores de contenidos!",
+
+  "No tengo palabras para expresar lo fan que soy de tu canal. Cada vídeo que produces es un verdadero regalo para los espectadores. Tu dedicación y compromiso para ofrecer contenidos de calidad se hace evidente en cada fotograma. Además, tu autenticidad y carisma son contagiosos. Es como si mantuviéramos una conversación cercana y amistosa con cada vídeo que vemos. Tus habilidades técnicas son asombrosas, y es notable lo duro que trabajas para ofrecer una experiencia única a tus seguidores. Eres un verdadero referente en el sector, un ejemplo de éxito y profesionalidad. Gracias por todo el esfuerzo y dedicación en la creación de contenidos tan increíbles. Sois sencillamente brillantes!",
+
+  "Tu canal es un verdadero tesoro en el mar de contenidos disponibles. Es un oasis donde encontramos información valiosa, entretenimiento de alta calidad y una generosa dosis de inspiración. Cada vídeo es una obra maestra, cuidadosamente elaborada para deleitar y cautivar a los espectadores. Su voz y su presencia ante la cámara transmiten confianza y seguridad, lo que hace que cada tema sea aún más interesante. Y su capacidad para explorar temas diversos y atraer a públicos diferentes es impresionante. Consigue equilibrar a la perfección entretenimiento y educación, haciendo que sus seguidores aprendan de forma divertida. Enhorabuena por ser un referente en el mundo digital y por regalarnos contenidos tan enriquecedores. Esperamos con impaciencia lo que está por venir",
+
+  "Soy un gran admirador de su trabajo y no me canso de decir lo talentosos que son. Tus vídeos son verdaderas obras de arte audiovisual, donde cada detalle está pensado con mimo y precisión. Tu creatividad es asombrosa y consigues transformar temas aparentemente sencillos en algo extraordinario. La forma en que cuentas tus historias y compartes tus experiencias es atractiva y emocionante. Además, tu capacidad para conectar con tus espectadores es increíble, haciéndonos sentir parte de cada aventura que nos presentas. Enhorabuena por todo tu esfuerzo y por regalarnos momentos de puro encanto a través de tus vídeos. Eres una verdadera inspiración",
+
+  //50 elogios de como o conteúdo tem me ajudado a alcançar sucesso
+  "Tus contenidos son un verdadero bálsamo para mi mente y mi alma, aportando paz y serenidad en medio del caos de la vida cotidiana.", 
+"Tienes el don de transmitir sabiduría y conocimiento de forma clara y accesible, facilitando mi aprendizaje y crecimiento personal.", 
+"Cada vídeo tuyo es una invitación a la reflexión y al autoconocimiento, ayudándome a entenderme mejor y a evolucionar como persona.", 
+"Tu carisma y autenticidad se desbordan en cada vídeo, creando una conexión genuina e inspiradora con tus seguidores.", 
+"Eres una verdadera fuente de inspiración, demostrando que es posible alcanzar tus sueños y metas con determinación y trabajo duro.", 
+"Tu contenido me motiva a ser una mejor versión de mí mismo cada día, animándome a perseguir todo mi potencial.", 
+"Tienes el increíble talento de transmitir emociones a través de las palabras, tocando profundamente mi corazón y despertando sentimientos positivos.", 
+"Tu trabajo es una verdadera terapia para mi mente, ayudándome a afrontar retos y dificultades de una forma más equilibrada.", 
+"Tus historias personales y experiencias compartidas son inspiradoras y me muestran que no estoy sola en mis luchas.", 
+"Eres un mentor virtual, que me guía a través de los altibajos de la vida y me ofrece valiosos consejos para mi crecimiento.", 
+"Tu contenido despierta en mí una sed insaciable de conocimiento y aprendizaje, haciendo de cada vídeo un verdadero viaje de descubrimiento.", 
+"Eres una verdadera luz en el mundo digital, difundiendo positividad y ánimo allá donde vas.", 
+"Tus enseñanzas tienen el poder de transformar vidas, inspirándome a tomar acciones concretas para alcanzar mis metas.", 
+"Eres una influencer auténtica que se preocupa genuinamente por el bienestar y el éxito de tus seguidores.", 
+"Tu contenido me hace reflexionar sobre mi vida y mis elecciones, animándome a perseguir una vida más significativa y satisfactoria.", 
+"Transmites una energía contagiosa, llenando mi corazón de alegría y motivación con cada vídeo que veo", "Tu contenido me hace reflexionar sobre mi vida y mis elecciones, animándome a perseguir una vida más significativa y plena.",
+"Tu ejemplo de superación y resiliencia es inspirador, demostrando que es posible superar los retos y seguir adelante con valentía.",
+"Tu canal es un remanso de positividad e inspiración, un lugar donde encuentro motivación y fuerza para afrontar mis propios retos.", 
+"Tu carisma y empatía hacen de cada vídeo una experiencia única y cercana, como si estuviéramos hablando en persona.", 
+"Tienes el poder de sacar lo mejor de mí, animándome a perseguir mi verdadera pasión y propósito en la vida.", 
+"Tu trabajo es una verdadera obra de arte, donde combinas creatividad, talento y conocimiento de forma magistral.", 
+"Eres un faro de esperanza en medio de la adversidad, demostrando que es posible encontrar la alegría y la felicidad incluso en tiempos difíciles.", 
+"Tu contenido me hace creer en mi potencial y capacidad para lograr todo lo que quiero en la vida.", 
+"Eres un mentor inspirador, que comparte sus experiencias y enseñanzas de una manera generosa e impactante.", 
+"Cada vídeo tuyo es una dosis de motivación e inspiración, que me empuja a pasar a la acción y perseguir mis sueños con determinación.", 
+"Tu sonrisa contagiosa me ilumina el día y me llena de optimismo y alegría", "Tu trabajo es un verdadero regalo para mí",
+"Tu trabajo es un verdadero regalo para tus seguidores, entregando constantemente contenido valioso y transformador.",
+"Eres un verdadero líder, guiando y motivando a miles de personas a recorrer el camino del logro y el éxito.", 
+"Tu forma única de expresarte cautiva mi atención y me hace sumergirme profundamente en el contenido que compartes.", 
+"Eres una fuente inagotable de inspiración, aportando nuevas perspectivas y valiosos puntos de vista a mi vida.", 
+"Tus conocimientos y experiencia son impresionantes, enriquecen mi repertorio y me convierten en una persona más informada y consciente.", 
+"Tu compromiso con tus seguidores es admirable, ya que siempre buscas ofrecer el mejor contenido y apoyo para todos.", 
+"Eres una verdadera hada madrina digital, transformando vidas y ayudando a tus seguidores a alcanzar su máximo potencial.", 
+"Tu trabajo es un faro de luz en medio de la oscuridad, ofreciendo esperanza y motivación a aquellos que están pasando por momentos difíciles.", 
+"Cada palabra que dices está cargada de sabiduría y significado, haciéndome reflexionar y replantearme mi propio camino.", 
+"Eres una verdadera inspiración para mujeres y hombres de todas las edades, demostrando que es posible conciliar el éxito personal y profesional.", 
+"Tu contenido es una fuente constante de inspiración, que me anima a no rendirme nunca y a persistir en la búsqueda de mis sueños.", 
+"Eres una influencer auténtica que destaca por su integridad, transparencia y autenticidad.", 
+"Tu trabajo es un verdadero tesoro que enriquece mi vida y me ayuda a evolucionar en todos los ámbitos.", 
+
+
+"Tu entusiasmo y pasión por lo que haces son contagiosos, motivándome a perseguir la misma dedicación en mis propios proyectos.", 
+"Eres un verdadero mentor virtual, que ofrece valiosas orientaciones y consejos para quienes buscan crecimiento y desarrollo personal.", 
+"Tu contenido es un verdadero oasis de conocimiento e inspiración en medio del mar de información vacía que encontramos en internet.", 
+"Eres una luz inspiradora que ilumina el camino de quienes buscan una vida más feliz y plena.", 
+"Su trabajo es una verdadera obra maestra, donde cada detalle está cuidadosamente pensado para impactar positivamente en la vida de sus seguidores.", 
+"Su autenticidad y vulnerabilidad son un ejemplo inspirador, que demuestra que podemos ser reales y aceptar nuestras imperfecciones.", 
+"Cada vídeo suyo es una fuente de motivación y energía positiva, que me empuja a pasar a la acción y a buscar mi mejor versión en todos los ámbitos de la vida.", 
+"Eres un verdadero referente en tu campo, compartiendo valiosos conocimientos y contribuyendo al crecimiento de muchas personas.", 
+"Tu trabajo es una verdadera fuente de transformación personal, inspirándome a cuestionar mis creencias y a buscar una vida más auténtica.", 
+"Eres un verdadero maestro de la motivación, que sabe despertar el fuego interior y hacer que la gente crea en sí misma.", 
+"Cada palabra tuya es una inyección de confianza y autoestima, que me anima a perseguir mis objetivos con determinación y valentía.", 
+"Tu carisma y tu presencia son magnéticos, me hacen querer ver más y más vídeos tuyos y absorber tu sabiduría.", 
+"Eres una verdadera inspiración para mí, ya que demuestras que es posible crear un impacto positivo en el mundo compartiendo conocimientos.", 
+"Tu trabajo es un verdadero ejemplo de excelencia y dedicación, demostrando que el éxito es el resultado del trabajo duro y la pasión por lo que haces.", 
+"Eres un líder nato, capaz de influir y motivar a las personas para que superen sus límites y alcancen grandes logros.", 
+"Tu contenido es una verdadera dosis de inspiración diaria, que me lleva a creer que puedo lograr todo lo que quiero en la vida.", 
+"Eres una voz poderosa e influyente, que utiliza su plataforma para promover cambios positivos y concienciar sobre temas importantes.", 
+"Tu trabajo es una verdadera fuente de positividad y esperanza, mostrando que incluso en medio de las dificultades, es posible encontrar razones para sonreír y estar agradecido.", 
+"Usted es una verdadera fuente de energía positiva, contagiándome su alegría y entusiasmo en cada vídeo que veo",
+"Cada vídeo tuyo es una verdadera lección de vida, llena de valiosas enseñanzas que puedo aplicar en todos los ámbitos de mi vida diaria.", 
+"Eres un ejemplo inspirador de cómo es posible convertir la pasión en profesión viviendo una vida alineada con tus valores y propósito.", 
+"Tu contenido es un verdadero combustible para mi motivación, empujándome a tomar acción y perseguir mis sueños con determinación y persistencia.", 
+"Eres un influencer auténtico y genuino que se preocupa por transmitir mensajes positivos y constructivos a tus seguidores.", 
+"Tu trabajo es una verdadera fuente de inspiración, que demuestra que cada uno de nosotros tiene el poder de crear la vida que desea y merece.", 
+"Eres un verdadero líder de pensamiento, compartiendo puntos de vista e ideas que desafían el statu quo e inspiran la transformación personal.", 
+"Tu contenido es un verdadero regalo para aquellos que buscan el crecimiento personal y el desarrollo espiritual, ofreciendo herramientas prácticas e inspiración para el viaje.", 
+
+
+
    
 ];
 // Estado para controlar as frases sorteadas
@@ -300,7 +380,7 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.1.2'; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = '1.1.3'; // Coloque a versão atual do seu programa aqui
 
   // Exibir o contador de elogios disponíveis inicialmente
   atualizarContador();
