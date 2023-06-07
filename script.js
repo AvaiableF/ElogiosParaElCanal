@@ -160,59 +160,58 @@ var elogios = [
    
    //50 elogios ao canal e ao trabalho em geral da Pamela Raquel
    "Sus vídeos son una fuente constante de inspiración y motivación para hombres y mujeres.", 
-"Su enfoque auténtico y empático es un verdadero diferenciador en el campo del desarrollo personal.", 
-"Usted tiene el don de transmitir mensajes poderosos que resuenan en las personas, generando transformaciones positivas en sus vidas.", 
-"Tu canal es un faro de esperanza, que ayuda a muchos a encontrar la felicidad y el propósito en su vida diaria.", 
-"Tu sinceridad y vulnerabilidad al compartir tus propias experiencias inspiran a otros a hacer lo mismo.", 
-"Tienes un talento increíble para traducir conceptos complejos en consejos prácticos y aplicables.", 
-"Tus enseñanzas van más allá de los problemas de pareja para abarcar todos los aspectos de la vida y el crecimiento personal.", 
-"Tu dedicación a ayudar a las personas a alcanzar el éxito en el amor, la familia, el empleo y la vida es admirable.", 
-"Eres un mentor inspirador, que empodera a hombres y mujeres para que se conviertan en la mejor versión de sí mismos.", 
-"Tu trabajo tiene el poder de transformar vidas, llevando a la gente a encontrar la felicidad y la plenitud en todos los ámbitos.", 
-"Eres una voz de sabiduría y guía, que ofrece valiosos consejos para superar retos y alcanzar metas.", 
-"Tu autenticidad y empatía crean un entorno seguro para que la gente se abra y crezca.", 
-"Eres un notable influenciador, que utiliza su plataforma para promover un cambio positivo en la vida de las personas.", 
-"Tu carisma y preocupación por tu audiencia son evidentes en cada vídeo, creando una conexión genuina con tus seguidores.", 
-"Tus ideas sobre las relaciones han ayudado a muchos a construir conexiones más fuertes y significativas.", 
-"Eres una fuente fiable de sabiduría y consejos, siempre aportando una perspectiva única y esclarecedora.", 
-"Tu trabajo es una brújula para aquellos que buscan el autodescubrimiento y el crecimiento personal.", 
-"Tu pasión por ayudar a la gente a encontrar la felicidad es contagiosa e inspiradora.", 
-"Tienes el poder de motivar y empoderar a las personas, guiándolas hacia una vida plena y gratificante.", 
-"Tu canal es un tesoro de recursos y herramientas para el éxito personal y las relaciones sanas.", 
-"Eres un líder visionario que ofrece una guía de confianza para alcanzar la felicidad y el éxito en todos los ámbitos de la vida.", 
-"Tus consejos prácticos y procesables tienen el poder de transformar vidas.", 
-"Usted ha sido una presencia constante e inspiradora para aquellos que buscan un cambio positivo.", 
-"Sus vídeos son un recordatorio constante de que todos merecemos una vida feliz y plena.", 
-"Tu dedicación a ayudar a la gente a encontrar la felicidad es admirable y verdaderamente inspiradora.", 
-"Eres una fuerza positiva en el mundo, que empodera a hombres y mujeres para construir relaciones sanas y significativas.", 
-"Tu trabajo es una luz brillante que guía a la gente hacia una vida llena de amor y éxito.", 
-"Tienes el don de transmitir mensajes complejos de forma clara y comprensible para todos.", 
-"Tu energía contagiosa y tu positividad son un verdadero regalo para los que siguen tu canal.", 
-"Eres un ejemplo inspirador de cómo es posible alcanzar el éxito y la felicidad en todos los ámbitos de la vida.", 
-"Tu trabajo tiene un impacto duradero, ayudando a la gente a construir relaciones sanas y duraderas.", 
-"Has sido un mentor increíble para muchos, guiándoles hacia una vida llena de amor y satisfacción.", 
-"Su dedicación a ayudar a los demás es evidente en cada vídeo, demostrando que realmente se preocupa por el bienestar de las personas.", 
+  "Su enfoque auténtico y empático es un verdadero diferenciador en el campo del desarrollo personal.", 
+  "Usted tiene el don de transmitir mensajes poderosos que resuenan en las personas, generando transformaciones positivas en sus vidas.", 
+  "Tu canal es un faro de esperanza, que ayuda a muchos a encontrar la felicidad y el propósito en su vida diaria.", 
+  "Tu sinceridad y vulnerabilidad al compartir tus propias experiencias inspiran a otros a hacer lo mismo.", 
+  "Tienes un talento increíble para traducir conceptos complejos en consejos prácticos y aplicables.", 
+  "Tus enseñanzas van más allá de los problemas de pareja para abarcar todos los aspectos de la vida y el crecimiento personal.", 
+  "Tu dedicación a ayudar a las personas a alcanzar el éxito en el amor, la familia, el empleo y la vida es admirable.", 
+  "Eres un mentor inspirador, que empodera a hombres y mujeres para que se conviertan en la mejor versión de sí mismos.", 
+  "Tu trabajo tiene el poder de transformar vidas, llevando a la gente a encontrar la felicidad y la plenitud en todos los ámbitos.", 
+  "Eres una voz de sabiduría y guía, que ofrece valiosos consejos para superar retos y alcanzar metas.", 
+  "Tu autenticidad y empatía crean un entorno seguro para que la gente se abra y crezca.", 
+  "Eres un notable influenciador, que utiliza su plataforma para promover un cambio positivo en la vida de las personas.", 
+  "Tu carisma y preocupación por tu audiencia son evidentes en cada vídeo, creando una conexión genuina con tus seguidores.", 
+  "Tus ideas sobre las relaciones han ayudado a muchos a construir conexiones más fuertes y significativas.", 
+  "Eres una fuente fiable de sabiduría y consejos, siempre aportando una perspectiva única y esclarecedora.", 
+  "Tu trabajo es una brújula para aquellos que buscan el autodescubrimiento y el crecimiento personal.", 
+  "Tu pasión por ayudar a la gente a encontrar la felicidad es contagiosa e inspiradora.", 
+  "Tienes el poder de motivar y empoderar a las personas, guiándolas hacia una vida plena y gratificante.", 
+  "Tu canal es un tesoro de recursos y herramientas para el éxito personal y las relaciones sanas.", 
+  "Eres un líder visionario que ofrece una guía de confianza para alcanzar la felicidad y el éxito en todos los ámbitos de la vida.", 
+  "Tus consejos prácticos y procesables tienen el poder de transformar vidas.", 
+  "Usted ha sido una presencia constante e inspiradora para aquellos que buscan un cambio positivo.", 
+  "Sus vídeos son un recordatorio constante de que todos merecemos una vida feliz y plena.", 
+  "Tu dedicación a ayudar a la gente a encontrar la felicidad es admirable y verdaderamente inspiradora.", 
+  "Eres una fuerza positiva en el mundo, que empodera a hombres y mujeres para construir relaciones sanas y significativas.", 
+  "Tu trabajo es una luz brillante que guía a la gente hacia una vida llena de amor y éxito.", 
+  "Tienes el don de transmitir mensajes complejos de forma clara y comprensible para todos.", 
+  "Tu energía contagiosa y tu positividad son un verdadero regalo para los que siguen tu canal.", 
+  "Eres un ejemplo inspirador de cómo es posible alcanzar el éxito y la felicidad en todos los ámbitos de la vida.", 
+  "Tu trabajo tiene un impacto duradero, ayudando a la gente a construir relaciones sanas y duraderas.", 
+  "Has sido un mentor increíble para muchos, guiándoles hacia una vida llena de amor y satisfacción.", 
+  "Su dedicación a ayudar a los demás es evidente en cada vídeo, demostrando que realmente se preocupa por el bienestar de las personas.", 
 
-"Tus consejos prácticos y perspicaces tienen el poder de transformar vidas y crear cambios positivos.", 
-"Eres una inspiración para todos los que buscan encontrar la felicidad y el éxito en sus vidas.", 
-"Tu canal es una fuente de motivación y aliento, que empodera a hombres y mujeres para superar retos y alcanzar sus metas.", 
-"Eres un ejemplo extraordinario de cómo es posible encontrar el equilibrio y la armonía en todos los ámbitos de la vida.", 
-"Su sabiduría y experiencia son inestimables para quienes buscan crecer y desarrollarse.", 
-"Tu trabajo ha ayudado a muchos a encontrar la confianza y el amor propio necesarios para alcanzar el éxito en sus vidas.", 
-"Eres un faro de esperanza para los que buscan una vida feliz y con sentido.", 
-"Tu compromiso de ayudar a los demás es realmente inspirador y tiene un impacto positivo duradero.", 
-"Eres una voz auténtica y poderosa que empodera a hombres y mujeres para vivir vidas plenas y felices.", 
-"Tus enseñanzas tienen el poder de transformar las relaciones y mejorar la calidad de vida de las personas.", 
-"Eres un líder inspirador que empodera a las personas para que se conviertan en la mejor versión de sí mismas.", 
-"Su canal es una valiosa fuente de orientación y conocimiento para aquellos que buscan relaciones sanas y satisfactorias.", 
-"Eres un brillante ejemplo de cómo el amor, el éxito y la felicidad están al alcance de todos.", 
-"Tu trabajo es un verdadero regalo para aquellos que están en busca de una vida plena y significativa.", 
-"Eres una influencer transformadora, que ayuda a la gente a superar obstáculos y alcanzar su mejor yo.", 
-"Tu canal es un oasis de inspiración y sabiduría, que ofrece una valiosa guía para una vida llena de amor y felicidad.", 
-"Eres una fuente de ánimo y motivación, que empodera a hombres y mujeres para alcanzar el éxito en todos los ámbitos de la vida.", 
+  "Tus consejos prácticos y perspicaces tienen el poder de transformar vidas y crear cambios positivos.", 
+  "Eres una inspiración para todos los que buscan encontrar la felicidad y el éxito en sus vidas.", 
+  "Tu canal es una fuente de motivación y aliento, que empodera a hombres y mujeres para superar retos y alcanzar sus metas.", 
+  "Eres un ejemplo extraordinario de cómo es posible encontrar el equilibrio y la armonía en todos los ámbitos de la vida.", 
+  "Su sabiduría y experiencia son inestimables para quienes buscan crecer y desarrollarse.", 
+  "Tu trabajo ha ayudado a muchos a encontrar la confianza y el amor propio necesarios para alcanzar el éxito en sus vidas.", 
+  "Eres un faro de esperanza para los que buscan una vida feliz y con sentido.", 
+  "Tu compromiso de ayudar a los demás es realmente inspirador y tiene un impacto positivo duradero.", 
+  "Eres una voz auténtica y poderosa que empodera a hombres y mujeres para vivir vidas plenas y felices.", 
+  "Tus enseñanzas tienen el poder de transformar las relaciones y mejorar la calidad de vida de las personas.", 
+  "Eres un líder inspirador que empodera a las personas para que se conviertan en la mejor versión de sí mismas.", 
+  "Su canal es una valiosa fuente de orientación y conocimiento para aquellos que buscan relaciones sanas y satisfactorias.", 
+  "Eres un brillante ejemplo de cómo el amor, el éxito y la felicidad están al alcance de todos.", 
+  "Tu trabajo es un verdadero regalo para aquellos que están en busca de una vida plena y significativa.", 
+  "Eres una influencer transformadora, que ayuda a la gente a superar obstáculos y alcanzar su mejor yo.", 
+  "Tu canal es un oasis de inspiración y sabiduría, que ofrece una valiosa guía para una vida llena de amor y felicidad.", 
+  "Eres una fuente de ánimo y motivación, que empodera a hombres y mujeres para alcanzar el éxito en todos los ámbitos de la vida.", 
    
 ];
-
 // Estado para controlar as frases sorteadas
 var frasesSorteadas = [];
 
@@ -221,73 +220,79 @@ var elogiosDisponiveis = elogios.length;
 
 // Função para gerar uma frase aleatória
 function gerarFrase() {
-// Verificar se todas as frases já foram sorteadas
-if (frasesSorteadas.length === elogios.length) {
-  // Resetar o estado das frases sorteadas
-  frasesSorteadas = [];
+  // Verificar se todas as frases já foram sorteadas
+  if (frasesSorteadas.length === elogios.length) {
+    // Resetar o estado das frases sorteadas
+    frasesSorteadas = [];
+  }
+
+  // Verificar se todas as frases já foram sorteadas novamente após o reset
+  if (frasesSorteadas.length === elogios.length) {
+    alert("Todas as frases já foram sorteadas. Reinicie o programa para sortear novamente.");
+    return;
+  }
+
+  // Verificar se há elogios disponíveis
+  if (elogiosDisponiveis === 0) {
+    alert("Não há mais elogios disponíveis.");
+    return;
+  }
+
+  var frase;
+
+  // Enquanto a frase sorteada já estiver no estado das frases sorteadas, sorteie outra
+  do {
+    var randomIndex = Math.floor(Math.random() * elogios.length);
+    frase = elogios[randomIndex];
+  } while (frasesSorteadas.includes(frase));
+
+  // Adicionar a frase sorteada ao estado das frases sorteadas
+  frasesSorteadas.push(frase);
+
+  document.getElementById("phrase").textContent = frase;
+
+  // Copiar a frase para a área de transferência
+  navigator.clipboard.writeText(frase);
+
+  // Exibir notificação
+  if ("Notification" in window && Notification.permission === "granted") {
+    new Notification("Frase copiada!", { body: "La frase se ha copiado al portapapeles." });
+  }
+
+  // Atualizar a lista das últimas 3 frases sorteadas
+  atualizarListaUltimasFrases();
+
+  // Atualizar o contador de elogios disponíveis
+  elogiosDisponiveis--;
+
+  // Atualizar o contador de elogios restantes
+  atualizarContador();
 }
 
-// Verificar se todas as frases já foram sorteadas novamente após o reset
-if (frasesSorteadas.length === elogios.length) {
-  alert("Todas as frases já foram sorteadas. Reinicie o programa para sortear novamente.");
-  return;
-}
-
-// Verificar se há elogios disponíveis
-if (elogiosDisponiveis === 0) {
-  alert("Não há mais elogios disponíveis.");
-  return;
-}
-
-var frase;
-
-// Enquanto a frase sorteada já estiver no estado das frases sorteadas, sorteie outra
-do {
-  var randomIndex = Math.floor(Math.random() * elogios.length);
-  frase = elogios[randomIndex];
-} while (frasesSorteadas.includes(frase));
-
-// Adicionar a frase sorteada ao estado das frases sorteadas
-frasesSorteadas.push(frase);
-
-document.getElementById("phrase").textContent = frase;
-
-// Copiar a frase para a área de transferência
-navigator.clipboard.writeText(frase);
-
-// Exibir notificação
-if ("Notification" in window && Notification.permission === "granted") {
-  new Notification("Frase copiada!", { body: "La frase se ha copiado al portapapeles." });
-}
-
-// Atualizar a lista das últimas 3 frases sorteadas
-atualizarListaUltimasFrases();
-
-// Atualizar o contador de elogios disponíveis
-elogiosDisponiveis--;
-
-// Exibir o contador de elogios disponíveis
-document.getElementById("counter").textContent = "Elogios Disponíveis: " + elogiosDisponiveis;
+// Função para atualizar o contador de elogios restantes
+function atualizarContador() {
+  var contador = elogios.length - frasesSorteadas.length;
+  document.getElementById("counter").textContent = "Elogios restantes: " + contador;
 }
 
 // Função para atualizar a lista das últimas 3 frases sorteadas
 function atualizarListaUltimasFrases() {
-var lista = document.getElementById("recent-list");
-lista.innerHTML = "";
+  var lista = document.getElementById("recent-list");
+  lista.innerHTML = "";
 
-// Mostrar as últimas 3 frases sorteadas, se houver
-var ultimasFrases = frasesSorteadas.slice(-3);
-for (var i = ultimasFrases.length - 1; i >= 0; i--) {
-  var frase = ultimasFrases[i];
-  var item = document.createElement("li");
-  item.textContent = frase;
-  lista.appendChild(item);
-}
+  // Mostrar as últimas 3 frases sorteadas, se houver
+  var ultimasFrases = frasesSorteadas.slice(-3);
+  for (var i = ultimasFrases.length - 1; i >= 0; i--) {
+    var frase = ultimasFrases[i];
+    var item = document.createElement("li");
+    item.textContent = frase;
+    lista.appendChild(item);
+  }
 }
 
 // Solicitar permissão para exibir notificações
 if ("Notification" in window && Notification.permission !== "granted") {
-Notification.requestPermission();
+  Notification.requestPermission();
 }
 
 // Associar a função gerarFrase ao botão "Generar Frase"
@@ -295,8 +300,8 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.1.1'; // Coloque a versão atual do seu programa aqui
-  
+  versionNumberElement.innerText = '1.1.2'; // Coloque a versão atual do seu programa aqui
+
   // Exibir o contador de elogios disponíveis inicialmente
-  document.getElementById("counter").textContent = "Elogios Disponíveis: " + elogiosDisponiveis;
+  atualizarContador();
 });
