@@ -30,7 +30,7 @@ document.getElementById("portuguese-button").addEventListener("click", function 
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.1.7"; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = "1.1.8"; // Coloque a versão atual do seu programa aqui
 });
 
 // Adicionar funcionalidade para alternar o tema
