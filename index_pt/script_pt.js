@@ -445,7 +445,7 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.1.9'; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = '1.2.0'; // Coloque a versão atual do seu programa aqui
 
   // Exibir o contador de elogios disponíveis inicialmente
   atualizarContador();

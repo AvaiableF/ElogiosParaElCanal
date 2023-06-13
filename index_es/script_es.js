@@ -327,11 +327,11 @@ var elogios = [
 "Tu autenticidad y empatía crean un ambiente acogedor para tus seguidores.",
 "Tu carisma y energía positiva hacen que tus vídeos sean atractivos y motivadores.",
 "Posees una habilidad única para conectar con tu audiencia y entender sus necesidades.",
-"Tu pasión por ayudar a los demás a tener éxito en las relaciones es contagiosa".,
+"Tu pasión por ayudar a los demás a tener éxito en las relaciones es contagiosa",
 "Su sabiduría y perspicacia son invaluables para aquellos que buscan consejos amorosos.",
 "Su sinceridad y transparencia son admirables y generan confianza en su audiencia.",
-"Su compromiso por ofrecer contenidos de calidad es encomiable".,
-"Sus consejos prácticos y aplicables marcan la diferencia en la vida de muchas personas".,
+"Su compromiso por ofrecer contenidos de calidad es encomiable",
+"Sus consejos prácticos y aplicables marcan la diferencia en la vida de muchas personas",
 "Su cautivadora presencia en pantalla hace que cada vídeo sea una experiencia enriquecedora.",
 "Usted es una fuente fiable de orientación y apoyo emocional para sus seguidores",
 "Tu capacidad para transmitir mensajes complejos de forma sencilla es impresionante",
@@ -441,7 +441,7 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.1.9'; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = '1.2.0'; // Coloque a versão atual do seu programa aqui
 
   // Exibir o contador de elogios disponíveis inicialmente
   atualizarContador();
