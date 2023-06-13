@@ -33,19 +33,3 @@ window.addEventListener("DOMContentLoaded", function () {
   versionNumberElement.innerText = "1.1.9"; // Coloque a versão atual do seu programa aqui
 });
 
-// Adicionar funcionalidade para alternar o tema
-var themeToggle = document.getElementById("theme-toggle");
-var themeIcon = document.getElementById("theme-icon");
-var body = document.body;
-
-themeToggle.addEventListener("click", function () {
-  if (body.classList.contains("dark-theme")) {
-      body.classList.remove("dark-theme");
-      themeIcon.classList.remove("fa-moon");
-      themeIcon.classList.add("fa-sun");
-  } else {
-      body.classList.add("dark-theme");
-      themeIcon.classList.remove("fa-sun");
-      themeIcon.classList.add("fa-moon");
-  }
-});

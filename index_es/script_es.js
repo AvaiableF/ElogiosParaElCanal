@@ -320,7 +320,37 @@ var elogios = [
 "Tu pasión por el tema es palpable en cada vídeo. Transmites entusiasmo y amor por lo que haces, inspirando a tus espectadores para que también se enamoren del tema y exploren más a fondo.",
 "Eres un verdadero influenciador positivo. Tus valores éticos, tu responsabilidad social y tu compromiso con la verdad y la integridad se reflejan en cada palabra de tus vídeos. Gracias por ser un ejemplo inspirador.",
 
-
+//30 elogios a mais
+"Eres una inspiración para cualquiera que quiera construir relaciones sanas",
+"Tu conocimiento y experiencia en relaciones es admirable",
+"Tu capacidad para transmitir consejos valiosos de forma clara y accesible es increíble.",
+"Tu autenticidad y empatía crean un ambiente acogedor para tus seguidores.",
+"Tu carisma y energía positiva hacen que tus vídeos sean atractivos y motivadores.",
+"Posees una habilidad única para conectar con tu audiencia y entender sus necesidades.",
+"Tu pasión por ayudar a los demás a tener éxito en las relaciones es contagiosa".,
+"Su sabiduría y perspicacia son invaluables para aquellos que buscan consejos amorosos.",
+"Su sinceridad y transparencia son admirables y generan confianza en su audiencia.",
+"Su compromiso por ofrecer contenidos de calidad es encomiable".,
+"Sus consejos prácticos y aplicables marcan la diferencia en la vida de muchas personas".,
+"Su cautivadora presencia en pantalla hace que cada vídeo sea una experiencia enriquecedora.",
+"Usted es una fuente fiable de orientación y apoyo emocional para sus seguidores",
+"Tu capacidad para transmitir mensajes complejos de forma sencilla es impresionante",
+"Tu entusiasmo y pasión por lo que haces son evidentes en cada vídeo.",
+"Es un comunicador dotado, capaz de transmitir sus ideas de forma clara y concisa.",
+"Su autenticidad y vulnerabilidad crean un vínculo especial con su audiencia",
+"Tus consejos son prácticos, realistas y basados en pruebas",
+"Tu enfoque compasivo y sensible facilita que la gente se abra y reciba ayuda.",
+"Tu dedicación a ayudar a los demás a encontrar el amor verdadero es admirable",
+"Tienes un don para ofrecer soluciones creativas a retos comunes en las relaciones.",
+"Tu afecto y cariño por tus seguidores se nota en cada palabra que compartes",
+"Tu presencia en los medios es una bendición para todos los que buscan mejorar su vida amorosa",
+"Eres un líder inspirador en el campo de las relaciones, impactando positivamente en la vida de muchos.",
+"Tu autenticidad y honestidad son refrescantes en un mundo lleno de superficialidad",
+"Sus consejos se basan en una profunda comprensión de la dinámica humana",
+"Su dedicación a ayudar a las personas a convertirse en mejores versiones de sí mismas es admirable.",
+"Su influencia positiva en las relaciones es notable y digna de reconocimiento.",
+"Usted tiene la capacidad de transformar vidas con sus consejos y orientación.",
+"Su pasión y compromiso para ayudar a otros a tener relaciones felices es genuina e inspiradora.",
 
 ];
 // Estado para controlar as frases sorteadas

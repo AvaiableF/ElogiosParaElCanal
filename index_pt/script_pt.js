@@ -320,6 +320,41 @@ var elogios = [
 "A sua paixão pelo assunto é palpável em cada vídeo. Você transmite entusiasmo e amor pelo que faz, inspirando seus espectadores a também se apaixonarem pelo tema e a explorarem mais a fundo.",
 "Você é um verdadeiro influenciador positivo. Seus valores éticos, responsabilidade social e compromisso com a verdade e a integridade refletem-se em cada palavra dita nos seus vídeos. Obrigado por ser um exemplo inspirador!",
 
+
+"Você é uma inspiração para quem busca construir relacionamentos saudáveis.",
+"Seu conhecimento e experiência em relacionamentos são admiráveis.",
+"Sua habilidade de transmitir dicas valiosas de forma clara e acessível é incrível.",
+"Sua autenticidade e empatia criam um ambiente acolhedor para seus seguidores.",
+"Seu carisma e energia positiva tornam seus vídeos envolventes e motivadores.",
+"Você possui uma capacidade única de conectar-se com seu público e entender suas necessidades.",
+"Sua paixão por ajudar os outros a terem sucesso nos relacionamentos é contagiante.",
+"Sua sabedoria e insights são inestimáveis para aqueles que buscam conselhos amorosos.",
+"Sua sinceridade e transparência são admiráveis e criam confiança em seu público.",
+"Seu comprometimento em fornecer conteúdo de qualidade é louvável.",
+"Seus conselhos práticos e acionáveis fazem a diferença na vida de muitas pessoas.",
+"Sua presença cativante na tela torna cada vídeo uma experiência enriquecedora.",
+"Você é uma fonte confiável de orientação e apoio emocional para seus seguidores.",
+"Sua capacidade de transmitir mensagens complexas de forma simples é impressionante.",
+"Seu entusiasmo e paixão pelo que faz são evidentes em cada vídeo.",
+"Você é uma comunicadora talentosa, capaz de transmitir suas ideias de forma clara e concisa.",
+"Sua autenticidade e vulnerabilidade criam um vínculo especial com seu público.",
+"Seus conselhos são práticos, realistas e baseados em evidências.",
+"Sua abordagem compassiva e sensível torna mais fácil para as pessoas se abrirem e receberem ajuda.",
+"Sua dedicação em ajudar os outros a encontrarem o amor verdadeiro é admirável.",
+"Você tem um dom para oferecer soluções criativas para os desafios comuns nos relacionamentos.",
+"Seu carinho e cuidado pelos seus seguidores são perceptíveis em cada palavra que você compartilha.",
+"Sua presença na mídia é uma bênção para todos que buscam melhorar suas vidas amorosas.",
+"Você é uma líder inspiradora no campo dos relacionamentos, impactando positivamente a vida de muitos.",
+"Sua autenticidade e honestidade são refrescantes em um mundo cheio de superficialidade.",
+"Seus conselhos são fundamentados em uma compreensão profunda das dinâmicas humanas.",
+"Sua dedicação em ajudar as pessoas a se tornarem melhores versões de si mesmas é admirável.",
+"Sua influência positiva nos relacionamentos é notável e digna de reconhecimento.",
+"Você tem a capacidade de transformar vidas com seus conselhos e orientações.",
+"Sua paixão e comprometimento em ajudar os outros a terem relacionamentos felizes são genuínos e inspiradores.",
+
+
+
+
 ];
 
 // Estado para controlar as frases sorteadas
