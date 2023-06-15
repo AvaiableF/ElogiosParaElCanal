@@ -30,6 +30,22 @@ document.getElementById("portuguese-button").addEventListener("click", function 
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.2.2"; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = "1.2.3"; // Coloque a versão atual do seu programa aqui
 });
 
+// Adicionar o código de animação da transição aqui
+document.addEventListener('DOMContentLoaded', function() {
+  var languageLinks = document.querySelectorAll('.language-link');
+  
+  for (var i = 0; i < languageLinks.length; i++) {
+    languageLinks[i].addEventListener('click', function(e) {
+      e.preventDefault();
+      var target = e.target.getAttribute('href');
+
+      document.body.classList.remove('transition-animation');
+      setTimeout(function() {
+        window.location.href = target;
+      }, 300);
+    });
+  }
+});

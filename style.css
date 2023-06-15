@@ -8,6 +8,19 @@ body {
   padding: 0;
   font-size: 16px;
   line-height: 1.5;
+
+   /* Adicione as seguintes propriedades de animação */
+   animation: fade-in 0.5s ease-in-out;
+   animation-fill-mode: backwards;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 /* App Container */
@@ -29,6 +42,7 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
   text-align: center;
+  
 }
 
 h1 {
@@ -153,3 +167,32 @@ h1 {
     flex-direction: column; /* Alterando a direção do flex para exibir os botões verticalmente */
   }
 }
+
+.transition-animation {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.transition-animation.active {
+  opacity: 1;
+}
+
+
+.neon {
+  font-size: 36px;
+  color: #ffffff;
+  text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+  animation: neon-animation 1s ease-in-out infinite alternate;
+}
+
+
+@keyframes neon-animation {
+  from {
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+  }
+  to {
+    text-shadow: 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000;
+  }
+}
+
+

@@ -546,7 +546,7 @@ document.getElementById("generate-button").addEventListener("click", generateCom
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.2.2"; // Put your current version here
+  versionNumberElement.innerText = "1.2.3"; // Put your current version here
 
   // Display the initial available compliments counter
   updateCounter();
