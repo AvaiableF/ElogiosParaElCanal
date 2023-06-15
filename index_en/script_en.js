@@ -402,6 +402,59 @@ var compliments = [
 "Your channel is a trusted and respected source for men seeking guidance in their relationships. The impact you have is immeasurable.",
 "Pamela, your passion for helping men become the best version of themselves is contagious. Thanks for all you do.",
 
+"Pamela, your authentic, non-judgmental approach is a relief to men looking for guidance in the world of relationships.",
+"Thank you, Pamela, for your ability to simplify complex concepts and make them accessible to everyone.",
+"Your channel is an oasis of positivity and encouragement, encouraging men to believe in themselves and their potential.",
+"Pamela, your attention to detail and dedication to providing comprehensive answers shows how much you value your followers.",
+"Congratulations on creating a safe and inclusive space on the channel where men can express themselves freely and find mutual support.",
+"Pamela, your deep understanding of the challenges facing modern men is a reflection of your ongoing research and experience.",
+"Your channel is a trusted compass for men looking for direction and clarity on their love journeys.",
+"Pamela, your infectious energy and genuine enthusiasm make your videos exciting and engaging to watch.",
+"I thank you for your commitment to fostering healthy and constructive relationships, Pamela. You are making a difference.",
+"Your talent for creating a genuine connection with your audience, Pamela, makes your followers feel valued and understood.",
+"Pamela, you are a tireless warrior in the fight for happiness and fulfillment in relationships. Your work is inspiring.",
+"Congratulations on your exemplary professionalism and work ethic, Pamela. This is reflected in the quality of the content you deliver.",
+"Your empathy and emanation of positivity is a constant source of inspiration, Pamela. Keep spreading your light around the world.",
+"Pamela, her sense of humor and charismatic personality make Atitude Vermelha's videos a fun and educational experience.",
+"I thank you for your authenticity, Pamela. You are a shining example of how to be true to yourself and others.",
+"Your deep and comprehensive knowledge of relationships is a real boon to those looking for guidance, Pamela.",
+
+"Pamela, you are a courageous and inspiring mentor, able to encourage men to step out of their comfort zone and seek the love they deserve.",
+"Congratulations on your ability to offer practical, actionable advice that can be immediately implemented for positive results.",
+"Your commitment to helping men build meaningful and lasting relationships is a testament to your dedication, Pamela.",
+"Pamela, your sincerity and openness in sharing your own personal experiences creates an environment of trust and connection.",
+"You are a true inspiration to men looking for growth and success in their relationships, Pamela. Thank you for being a beacon of hope.",
+"His channel is a learning and transformation space where men can gain the skills they need to find and maintain healthy relationships.",
+"Pamela, your ability to offer a balanced and unbiased perspective on matters relating to love and relationships is admirable.",
+"Congratulations on your commitment to helping men overcome insecurities and develop self-confidence, Pamela.",
+"Your courage in tackling difficult and challenging topics, Pamela, shows your dedication to providing a safe space for important discussions.",
+"Pamela, your empathy and genuine understanding make your advice valuable and relevant to men of all ages and backgrounds.",
+"Your channel is a constant source of inspiration, Pamela, pushing men to become better versions of themselves in all areas of life.",
+"Pamela, your ability to simplify complex concepts and provide practical strategies is a true boon to your followers.",
+"Congratulations on creating a warm and supportive online community where men can find mutual support and encouragement, Pamela.",
+"Your positive and encouraging attitude is a beacon of hope for men facing love challenges, Pamela. Thank you for being there.",
+"Pamela, your dedication to helping men understand their own needs and desires is an invaluable contribution to their love lives.",
+"Your channel is a treasure trove of wisdom, filled with insightful insights and practical advice that can transform relationships, Pamela.",
+"Pamela, your ability to convey knowledge in a clear and engaging way makes your videos educational and inspiring.",
+"Congratulations on your commitment to maintaining a safe and respectful space for the Atitude Vermelha community, Pamela.",
+"Your dedication to helping men improve their communication skills and emotional connection is an invaluable contribution, Pamela.",
+"Pamela, your candor in sharing personal stories and lessons learned inspires men to open their hearts and become vulnerable.",
+"Your knowledge of the nuances of relationships is exceptional, Pamela. Thank you for generously sharing your insight.",
+"Congratulations on creating a welcoming and inclusive environment where men can feel free to voice their concerns and receive guidance, Pamela.",
+"Pamela, your ability to turn complexity into simplicity is admirable. You make the journey of love seem more attainable for everyone.",
+"Your commitment to helping men become emotionally intelligent leaders in their relationships is a real gift, Pamela.",
+"Pamela, her authenticity and vulnerability in sharing her own struggles and triumphs inspires men to face their own challenges.",
+"Congratulations on your ability to provide personalized advice tailored to each person's individual needs, Pamela.",
+"Your dedication to promoting healthy and respectful relationships is a true example of your commitment, Pamela. Thank you for being a leader in this area.",
+"Pamela, your ability to communicate complex ideas with clarity and enthusiasm makes your videos captivating and engaging.",
+"Your channel is a beacon of hope for men who are looking for love and authentic connection, Pamela. Thank you for being that shining light.",
+"Pamela, your compassion and empathy shines through in every aspect of your work, making it truly inspiring.",
+"Congratulations on your ability to help men overcome their own limitations and achieve fulfilling relationships, Pamela.",
+"Your dedication to providing evidence-based information and practical advice is a true gift to the men's community, Pamela.",
+"Pamela, your authenticity and humility are admirable qualities that instill a sense of connection and confidence in your followers.",
+"Congratulations on your continued commitment to helping men find the love and happiness they deserve, Pamela. You are truly remarkable.",
+
+
 
 ];
 
@@ -493,7 +546,7 @@ document.getElementById("generate-button").addEventListener("click", generateCom
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.2.1"; // Put your current version here
+  versionNumberElement.innerText = "1.2.2"; // Put your current version here
 
   // Display the initial available compliments counter
   updateCounter();
