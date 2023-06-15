@@ -352,7 +352,56 @@ var elogios = [
 "Você tem a capacidade de transformar vidas com seus conselhos e orientações.",
 "Sua paixão e comprometimento em ajudar os outros a terem relacionamentos felizes são genuínos e inspiradores.",
 
-
+"Pamela, seu trabalho no canal Atitude Vermelha é inspirador e transformador!",
+"Obrigado, Pamela, por dedicar seu tempo e esforço para ajudar homens a melhorarem suas vidas amorosas.",
+"Seu canal é uma fonte valiosa de conhecimento e conselhos práticos para conquistar relacionamentos saudáveis.",
+"Pamela, você é uma verdadeira especialista em relacionamentos, e seu canal reflete seu profissionalismo e paixão pelo assunto.",
+"Parabéns, Pamela, por capacitar homens a se tornarem a melhor versão de si mesmos e a encontrarem parceiras incríveis.",
+"Seu compromisso com a comunidade de homens em busca de crescimento pessoal é admirável, Pamela.",
+"O canal Atitude Vermelha é um recurso indispensável para homens que desejam melhorar suas habilidades de comunicação e conquista.",
+"Pamela, seu carisma e autenticidade tornam seus vídeos envolventes e cativantes.",
+"Agradeço por compartilhar suas experiências e conhecimentos valiosos, Pamela. Você está mudando vidas.",
+"O trabalho que você realiza, Pamela, ajuda a criar relacionamentos mais saudáveis e duradouros.",
+"Seus conselhos práticos e estratégias eficazes têm ajudado inúmeros homens a superarem desafios em seus relacionamentos.",
+"Pamela, sua dedicação em ajudar homens a desenvolverem confiança e habilidades de sedução é admirável.",
+"Você é uma mentora inspiradora, Pamela, e seu canal é um farol de esperança para aqueles em busca de relacionamentos significativos.",
+"Parabéns por construir uma comunidade tão positiva e de apoio, Pamela. Seu impacto é imensurável.",
+"Pamela, sua empatia e compreensão são evidentes em cada conselho que você dá. Isso faz toda a diferença.",
+"Seu entusiasmo contagioso e paixão pelo seu trabalho tornam seus vídeos incrivelmente motivadores.",
+"Pamela, você é uma referência quando se trata de desenvolvimento pessoal e amoroso. Obrigado por compartilhar seu conhecimento.",
+"Seu canal é um tesouro de sabedoria para homens que desejam ser bem-sucedidos na conquista e nos relacionamentos.",
+"Pamela, você é uma luz orientadora para aqueles que estão perdidos no mundo dos relacionamentos. Continue brilhando!",
+"Parabéns por criar um espaço seguro e inclusivo no canal Atitude Vermelha, onde homens podem se desenvolver e aprender.",
+"Pamela, seu compromisso em ajudar os outros é verdadeiramente inspirador. Obrigado por ser uma voz positiva na comunidade.",
+"Você é uma mentora dedicada, Pamela, e seu impacto na vida de homens ao redor do mundo é notável.",
+"Seus conselhos práticos e abordagem honesta são um verdadeiro diferencial no canal Atitude Vermelha.",
+"Pamela, sua habilidade em transmitir informações complexas de maneira clara e acessível é admirável.",
+"Parabéns por fornecer ferramentas eficazes e estratégias realistas para ajudar homens a alcançarem sucesso em seus relacionamentos.",
+"Pamela, você é uma verdadeira inspiração para homens que buscam crescimento pessoal e felicidade amorosa.",
+"Seu canal é uma fonte de motivação e encorajamento para homens que estão empenhados em se tornarem a melhor versão de si mesmos.",
+"Pamela, sua presença carismática e genuína no canal transmite confiança e credibilidade.",
+"Você é uma comunicadora talentosa, Pamela, capaz de transmitir ideias complexas de maneira envolvente e fácil de entender.",
+"Parabéns por criar um espaço de aprendizado e transformação no canal Atitude Vermelha. Seu impacto é inestimável.",
+"Pamela, sua paixão por ajudar homens a encontrarem relacionamentos saudáveis é evidente em cada palavra que você compartilha.",
+"Seus vídeos são cheios de insights valiosos e conselhos práticos que podem ser aplicados imediatamente. Obrigado por compartilhar seu conhecimento.",
+"Pamela, você é uma mentora atenciosa e compassiva, sempre disposta a oferecer suporte e orientação.",
+"Seu canal é um farol de esperança para aqueles que estão lutando em seus relacionamentos. Continue iluminando o caminho, Pamela.",
+"Pamela, sua capacidade de criar conexões genuínas e significativas é uma inspiração para todos que acompanham o canal.",
+"Parabéns por construir uma comunidade acolhedora e encorajadora, onde homens podem compartilhar experiências e aprender uns com os outros.",
+"Pamela, sua expertise e conhecimento aprofundado são evidentes em cada vídeo que você publica. Você é uma autoridade no assunto.",
+"Você é uma líder de pensamento, Pamela, que está ajudando a moldar uma nova geração de homens confiantes e bem-sucedidos nos relacionamentos.",
+"Seus conselhos práticos e estratégias eficazes têm ajudado inúmeros homens a transformarem suas vidas amorosas. Obrigado por seu trabalho incrível.",
+"Pamela, sua autenticidade e vulnerabilidade são inspiradoras. Sua coragem em compartilhar suas próprias experiências faz uma diferença significativa.",
+"Seu canal é uma fonte constante de motivação e orientação para homens que estão em busca de relacionamentos saudáveis e significativos.",
+"Pamela, sua dedicação em fornecer conteúdo de qualidade e relevante para sua comunidade é verdadeiramente admirável.",
+"Obrigado por ser uma voz de encorajamento e apoio para homens em todas as fases de seus relacionamentos, Pamela. Seu trabalho é inestimável.",
+"Você é uma verdadeira mentora, Pamela, ajudando homens a superarem obstáculos e encontrarem o amor verdadeiro.",
+"Parabéns por construir uma plataforma onde homens podem aprender, crescer e se conectar uns com os outros. Você está fazendo a diferença.",
+"Pamela, sua habilidade em identificar os desafios e preocupações comuns enfrentados pelos homens é um testemunho de sua expertise.",
+"Seus conselhos são práticos, realistas e baseados em evidências. Obrigado por fornecer uma abordagem confiável para o desenvolvimento pessoal e amoroso.",
+"Pamela, você é uma força positiva e inspiradora na vida de tantas pessoas. Continue com o excelente trabalho que você faz.",
+"Seu canal é uma fonte confiável e respeitada para homens que buscam orientação em seus relacionamentos. O impacto que você tem é imensurável.",
+"Pamela, sua paixão por ajudar homens a se tornarem a melhor versão de si mesmos é contagiosa. Obrigado por tudo que você faz.",
 
 
 ];
@@ -445,7 +494,7 @@ document.getElementById("generate-button").addEventListener("click", gerarFrase)
 
 window.addEventListener('DOMContentLoaded', function() {
   var versionNumberElement = document.getElementById('version-number');
-  versionNumberElement.innerText = '1.2.0'; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = '1.2.1'; // Coloque a versão atual do seu programa aqui
 
   // Exibir o contador de elogios disponíveis inicialmente
   atualizarContador();

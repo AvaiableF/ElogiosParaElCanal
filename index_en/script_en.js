@@ -351,6 +351,58 @@ var compliments = [
 "You have the ability to transform lives with your advice and guidance.",
 "His passion and commitment to helping others have happy relationships is genuine and inspiring.",
 
+"Pamela, your work on the red attitud channel is inspiring and transformative!",
+"Thank you Pamela for dedicating your time and effort to helping men improve their love lives.",
+"His channel is a valuable source of knowledge and practical advice for achieving healthy relationships.",
+"Pamela, you are a true relationship expert, and your channel reflects your professionalism and passion for the subject.",
+"Congratulations Pamela for empowering men to become the best version of themselves and find amazing partners.",
+"Your commitment to the community of men seeking personal growth is admirable, Pamela.",
+"The Red Attitude channel is an indispensable resource for men who want to improve their communication and conquest skills.",
+"Pamela, her charisma and authenticity make her videos engaging and captivating.",
+"Thank you for sharing your valuable experiences and knowledge, Pamela. You are changing lives.",
+"The work you do, Pamela, helps create healthier, longer-lasting relationships.",
+"His practical advice and effective strategies have helped countless men overcome challenges in their relationships.",
+"Pamela, your dedication to helping men develop confidence and seduction skills is admirable.",
+"You are an inspiring mentor, Pamela, and your channel is a beacon of hope for those looking for meaningful relationships.",
+"Congratulations on building such a positive and supportive community, Pamela. Your impact is immeasurable.",
+"Pamela, your empathy and understanding is evident in every piece of advice you give. It makes all the difference.",
+"His infectious enthusiasm and passion for his work make his videos incredibly motivating.",
+"Pamela, you are a reference when it comes to personal and loving development. Thank you for sharing your knowledge.",
+"Your channel is a treasure trove of wisdom for men who want to be successful in dating and relationships.",
+"Pamela, you are a guiding light to those lost in the world of relationships. Keep shining!",
+"Congratulations for creating a safe and inclusive space on the Attitude Red channel, where men can develop and learn.",
+"Pamela, your commitment to helping others is truly inspiring. Thank you for being a positive voice in the community.",
+"You are a dedicated mentor, Pamela, and your impact on the lives of men around the world is remarkable.",
+"His practical advice and honest approach are a real asset to the red attitud channel.",
+"Pamela, your ability to convey complex information in a clear and accessible way is admirable.",
+"Congratulations on providing effective tools and realistic strategies to help men succeed in their relationships.",
+"Pamela, you are a true inspiration to men seeking personal growth and loving happiness.",
+"Your channel is a source of motivation and encouragement for men who are committed to becoming the best version of themselves.",
+"Pamela, your charismatic and genuine presence on the channel conveys confidence and credibility.",
+"You are a gifted communicator, Pamela, able to convey complex ideas in an engaging and easy-to-understand manner.",
+"Congratulations for creating a space for learning and transformation on the Attitude Vermelha channel. Your impact is invaluable.",
+"Pamela, your passion for helping men find healthy relationships is evident in every word you share.",
+"Your videos are full of valuable insights and practical advice that can be applied immediately. Thank you for sharing your knowledge.",
+"Pamela, you are a caring and compassionate mentor, always willing to offer support and guidance.",
+"Your channel is a beacon of hope for those struggling in their relationships. Keep lighting the way Pamela.",
+"Pamela, your ability to create genuine and meaningful connections is an inspiration to everyone who follows the channel.",
+"Congratulations on building a warm and supportive community where men can share experiences and learn from each other.",
+"Pamela, your expertise and in-depth knowledge is evident in every video you post. You are an authority on your subject.",
+"You are a thought leader, Pamela, who is helping shape a new generation of confident, successful men in relationships.",
+"Your practical advice and effective strategies have helped countless men transform their love lives. Thank you for your incredible work.",
+"Pamela, your authenticity and vulnerability are inspiring. Your courage to share your own experiences makes a significant difference.",
+"His channel is a constant source of motivation and guidance for men who are looking for healthy and meaningful relationships.",
+"Pamela, your dedication to providing quality and relevant content to your community is truly admirable.",
+"Thank you for being a voice of encouragement and support for men at every stage of their relationships, Pamela. Your work is invaluable.",
+"You are a true mentor, Pamela, helping men overcome obstacles and find true love.",
+"Congratulations on building a platform where men can learn, grow and connect with each other. You are making a difference.",
+"Pamela, your ability to identify the common challenges and concerns faced by men is a testament to your expertise.",
+"Your advice is practical, down-to-earth and evidence-based. Thank you for providing a credible approach to personal and loving development.",
+"Pamela, you are a positive and inspiring force in so many people's lives. Keep up the great work you do.",
+"Your channel is a trusted and respected source for men seeking guidance in their relationships. The impact you have is immeasurable.",
+"Pamela, your passion for helping men become the best version of themselves is contagious. Thanks for all you do.",
+
+
 ];
 
 // State to keep track of generated compliments
@@ -441,7 +493,7 @@ document.getElementById("generate-button").addEventListener("click", generateCom
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.2.0"; // Put your current version here
+  versionNumberElement.innerText = "1.2.1"; // Put your current version here
 
   // Display the initial available compliments counter
   updateCounter();
