@@ -170,3 +170,20 @@ h1 {
       flex-direction: column; /* Alterando a direção do flex para exibir os botões verticalmente */
     }
   }
+
+  .neon {
+    font-size: 36px;
+    color: #ffffff;
+    text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+    animation: neon-animation 1s ease-in-out infinite alternate;
+  }
+  
+  
+  @keyframes neon-animation {
+    from {
+      text-shadow: 0 0 10px #000000, 0 0 20px #000000, 0 0 30px #000000;
+    }
+    to {
+      text-shadow: 0 0 20px #000000, 0 0 30px #000000, 0 0 40px #000000;
+    }
+  }
