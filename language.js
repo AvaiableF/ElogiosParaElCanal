@@ -30,7 +30,7 @@ document.getElementById("portuguese-button").addEventListener("click", function 
 
 window.addEventListener("DOMContentLoaded", function () {
   var versionNumberElement = document.getElementById("version-number");
-  versionNumberElement.innerText = "1.2.4"; // Coloque a versão atual do seu programa aqui
+  versionNumberElement.innerText = "1.2.5"; // Coloque a versão atual do seu programa aqui
 });
 
 // Adicionar o código de animação da transição aqui
